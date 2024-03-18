@@ -14,5 +14,6 @@ Cette couche est la couche de communication entre le back et le front (là, où 
 6. Testez via PostMan les ajouts d’un thème et d’un sous-thème
 
 ## Lien externe
-https://github.com/MathEyraud/Java-WebSite-CoucheBusiness
-https://github.com/MathEyraud/Angular-WebSite-CoucheWeb
+1. https://github.com/MathEyraud/Java-WebSite-CoucheBusiness
+2. https://github.com/MathEyraud/Java-WebSite-CoucheWebService
+3. https://github.com/MathEyraud/Angular-WebSite-CoucheWeb

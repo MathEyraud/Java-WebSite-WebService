@@ -13,7 +13,7 @@ Cette couche est la couche de communication entre le back et le front (là, où 
 5. Lancer le projet : cliquez avec le bouton droit de la souris sur le fichier "AkdemiaWsGp1eApplication.java", puis sélectionnez l'option pour l'exécuter en tant qu'application Java.
 6. Testez via PostMan les ajouts d’un thème et d’un sous-thème
 
-## Lien externe
+## Liens externes
 1. https://github.com/MathEyraud/Java-WebSite-CoucheBusiness
 2. https://github.com/MathEyraud/Java-WebSite-CoucheWebService
 3. https://github.com/MathEyraud/Angular-WebSite-CoucheWeb

@@ -1,0 +1,28 @@
+
+# SERVER PROPERTIES
+server:
+  port: 8090
+  servlet:
+    context-path: /api
+# HIBERNATE PROPERTIES
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/akdemia-gp1e-db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: root
+    password:
+  jpa:
+    hibernate:
+      dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+     # naming:
+       # physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    ddl-auto: none
+    show-sql: true
+  application:
+    name: akdemia
+akdemia:
+  application:
+    jwt:
+      key:
+        secret: UHJvamV0IEdJTU1PL0FMR0EtQk9OR1VFLVdBRkZPQDIwMjM=
+
